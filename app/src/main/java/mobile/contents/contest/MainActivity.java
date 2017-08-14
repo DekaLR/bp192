@@ -55,7 +55,7 @@ public class MainActivity extends AppCompatActivity
 
             }
 
-            @Overridegit
+            @Override
             public void onPageSelected(int position) {
                 switch (position) {
                     case 0 :
